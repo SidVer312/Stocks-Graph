@@ -4,4 +4,9 @@ A simple python streamlit project which presents the graph of stock of whichever
 
 Requirements:
 Streamlit 
+
 matplotlib
+
+Pandas
+
+pandas_datareader
